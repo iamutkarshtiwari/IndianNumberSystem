@@ -4,11 +4,11 @@ import java.util.*;
 public class Main {
 public static void main(String[] args)throws IOException {
 
-  long number = Long.parseLong(args[0]);
-  String decimals[] = {"", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"};
-  String places[] = {"", "", "hundred", "thousand", "lakh", "crore", "arab", "kharab"};
-  String integers[] = {"", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", 
-  												"twelve", "thirteen", "fourteen", "fifteen",
+	long number = Long.parseLong(args[0]);
+	String decimals[] = {"", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"};
+	String places[] = {"", "", "hundred", "thousand", "lakh", "crore", "arab", "kharab"};
+	String integers[] = {"", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", 
+													"twelve", "thirteen", "fourteen", "fifteen",
 													"sixteen", "seventeen", "eighteen", "ninteen", "twenty"};
 
 
