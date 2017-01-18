@@ -11,7 +11,6 @@ public static void main(String[] args)throws IOException {
 													"twelve", "thirteen", "fourteen", "fifteen",
 													"sixteen", "seventeen", "eighteen", "ninteen", "twenty"};
 
-
 	String answer = "";
 	String temp = "";
 	int i = 1;
